@@ -1,0 +1,64 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Core\\RentFlatApi.Core.csproj",
+    "projectName": "RentFlatApi.Core",
+    "projectPath": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Core\\RentFlatApi.Core.csproj",
+    "outputPath": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Core\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Contract\\RentFlatApi.Contract.csproj": {
+            "projectPath": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Contract\\RentFlatApi.Contract.csproj"
+          },
+          "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Infrastructure\\RentFlatApi.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Infrastructure\\RentFlatApi.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[6.0.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

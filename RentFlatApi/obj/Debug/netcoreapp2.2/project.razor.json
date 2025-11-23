@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "/Users/plelental/Projects/RentFlatApi/RentFlatApi/obj/Debug/netcoreapp2.2/project.razor.json",
+  "FilePath": "/Users/plelental/Projects/RentFlatApi/RentFlatApi/RentFlatApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "RentFlatApi",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}

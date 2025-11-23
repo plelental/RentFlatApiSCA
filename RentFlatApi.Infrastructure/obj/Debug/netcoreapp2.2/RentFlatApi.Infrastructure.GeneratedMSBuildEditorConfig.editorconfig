@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = RentFlatApi.Infrastructure
+build_property.ProjectDir = /Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
