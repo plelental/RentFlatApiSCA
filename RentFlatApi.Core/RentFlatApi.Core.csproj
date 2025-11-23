@@ -15,6 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
       <ProjectReference Include="..\RentFlatApi.Contract\RentFlatApi.Contract.csproj" />
       <ProjectReference Include="..\RentFlatApi.Infrastructure\RentFlatApi.Infrastructure.csproj" />
     </ItemGroup>
