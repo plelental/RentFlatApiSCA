@@ -1,0 +1,14 @@
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/bin/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.deps.json
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/bin/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.runtimeconfig.json
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/bin/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.runtimeconfig.dev.json
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/bin/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.dll
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/bin/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.pdb
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.AssemblyInfo.cs
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.sourcelink.json
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.dll
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.pdb
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Infrastructure/obj/Debug/netcoreapp2.2/RentFlatApi.Infrastructure.genruntimeconfig.cache

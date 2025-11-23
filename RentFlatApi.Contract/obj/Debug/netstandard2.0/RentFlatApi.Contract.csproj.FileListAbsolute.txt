@@ -1,0 +1,11 @@
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/bin/Debug/netstandard2.0/RentFlatApi.Contract.deps.json
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/bin/Debug/netstandard2.0/RentFlatApi.Contract.dll
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/bin/Debug/netstandard2.0/RentFlatApi.Contract.pdb
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.csproj.AssemblyReference.cache
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.AssemblyInfoInputs.cache
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.AssemblyInfo.cs
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.csproj.CoreCompileInputs.cache
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.sourcelink.json
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.dll
+/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/Debug/netstandard2.0/RentFlatApi.Contract.pdb

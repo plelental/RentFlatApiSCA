@@ -179,34 +179,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PawelLelental\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/plelental/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Contract\\RentFlatApi.Contract.csproj",
+      "projectUniqueName": "/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/RentFlatApi.Contract.csproj",
       "projectName": "RentFlatApi.Contract",
-      "projectPath": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Contract\\RentFlatApi.Contract.csproj",
-      "packagesPath": "C:\\Users\\PawelLelental\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PawelLelental\\RiderProjects\\RentFlatApi\\RentFlatApi.Contract\\obj\\",
+      "projectPath": "/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/RentFlatApi.Contract.csproj",
+      "packagesPath": "/Users/plelental/.nuget/packages/",
+      "outputPath": "/Users/plelental/Projects/RentFlatApiSCA/RentFlatApi.Contract/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PawelLelental\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/plelental/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -218,6 +213,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -227,10 +223,17 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
